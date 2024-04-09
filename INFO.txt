@@ -1,0 +1,26 @@
+SELECIONE + ALT + SHIFT + seta pra baixo
+alt + seta pra movimentar
+alt + shift + F = formata
+
+necessidade: 
+versao do node 16 para rodar o backend e front
+angular/cli 9.1.0
+
+baixe nvm para rodar versões antigas do angular/cli
+use in cmd: 
+nvm install 16
+nvm use 16
+para rodar @angular/cli@9.1.0 ou outra versão você deve pesquisar qual node version é compativel
+rode npm uninstall -g @angular/cli 
+rode npm cache clean --force 
+instale a versão nova 
+com a angular/cli na versão desejada e node na mesma compatibilidade rode ng serve
+
+VIEW {BASE PRO FRONT:
+header
+nav
+content
+footer}
+
+
+
