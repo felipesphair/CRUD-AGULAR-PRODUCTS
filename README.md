@@ -16,12 +16,15 @@ Projeto de CRUD de produtos simples com o objetivo de aprender como funciona o A
 # Telas: 
 
 Início:
+
 ![Captura de tela 2024-04-09 192456](https://github.com/felipesphair/CRUD-AGULAR-PRODUCTS/assets/107360437/82ed7d9c-2691-4583-a761-aa694aa0312f)
 
 Produtos:
+
 ![Captura de tela 2024-04-09 192508](https://github.com/felipesphair/CRUD-AGULAR-PRODUCTS/assets/107360437/8d131d6e-6142-4657-8169-2dc84ef19c6e)
 
 Registro de Produtos:
+
 ![Captura de tela 2024-04-09 192522](https://github.com/felipesphair/CRUD-AGULAR-PRODUCTS/assets/107360437/7f9aa774-2bfa-497a-8d9c-cf788fff8292)
 
 Editar Produtos:
